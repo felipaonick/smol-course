@@ -1,0 +1,3 @@
+/.venv
+Instruction_Tuning/sft_output/
+Instruction_Tuning/SmolLM2-FT-MyDataset/
