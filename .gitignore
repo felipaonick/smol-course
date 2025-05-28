@@ -1,3 +1,5 @@
 /.venv
-Instruction_Tuning/sft_output/
-Instruction_Tuning/SmolLM2-FT-MyDataset/
+/01_Instruction_Tuning/sft_output/
+/01_Instruction_Tuning/SmolLM2-FT-MyDataset/
+/02_Preference_Alignment/smol_dpo_output/
+/02_Preference_Alignment/SmolLM2-FT-DPO/
